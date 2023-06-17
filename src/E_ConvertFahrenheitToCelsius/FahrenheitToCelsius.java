@@ -9,11 +9,12 @@ public class FahrenheitToCelsius {
     Scanner in = new Scanner(System.in);
 
     System.out.print("Enter temperature in Fahrenheit = ");
-    // temperature = in.nextFloat();
     temperature = in.nextInt();
 
     temperature = ((temperature - 32) * 5) / 9;
-    System.out.println("Temperature in Celsius = " + temperature);
+    System.out.println(
+      "Temperature in Celsius = " + temperature + " \u00B0C\r\n"
+    );
 
     in.close();
   }
