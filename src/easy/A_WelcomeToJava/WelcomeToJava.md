@@ -1,4 +1,4 @@
-## **Welcome to Java!**
+## [**Welcome to Java!**](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true)
 
 Welcome to the world of Java! In this challenge, we practice printing to stdout.
 

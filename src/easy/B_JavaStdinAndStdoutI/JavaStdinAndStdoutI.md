@@ -1,3 +1,5 @@
+## [**Java Stdin and Stdout I**](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true)
+
 Most HackerRank challenges require you to read input from [stdin](https://en.wikipedia.org/wiki/Standard_streams#Standard_input_.28stdin.29) (standard input) and write output to [stdout](https://en.wikipedia.org/wiki/Standard_streams#Standard_output_.28stdout.29) (standard output).
 
 One popular way to read input from stdin is by using the [Scanner class](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html) and specifying the Input Stream as System.in. For example:
